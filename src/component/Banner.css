@@ -1,0 +1,43 @@
+.banner-container {
+    background-color: #ddff02; /* Cambia el color de fondo según tu preferencia */
+    padding: 20px; /* Espacio interno alrededor del contenido */
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Añade sombra */
+    margin-bottom: 15px;
+}
+
+.titulo{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 50vw;
+}
+
+.titulo h1 {
+    color: black;
+    margin-left: 1em;
+    font-size: 2.5rem; /* Tamaño de fuente para el título */
+    margin-bottom: 10px; /* Espacio inferior entre el título y el párrafo */
+}
+
+.titulo2 {
+    margin-left: 13vw;
+}
+
+.titulo2 h5 {
+    font-size: 1.2rem; /* Tamaño de fuente para el subtítulo */
+    margin-top: 0; /* Elimina el espacio superior del subtítulo */
+    animation: shake 2.0s ease infinite; /* Aplica la animación 'shake' */
+}
+
+@keyframes shake {
+    0% {
+        transform: translateX(0); /* No hay desplazamiento inicial */
+    }
+    50% {
+        transform: translateX(5px); /* Desplazamiento hacia la derecha */
+    }
+    100% {
+        transform: translateX(0); /* Regresa a la posición original */
+    }
+}

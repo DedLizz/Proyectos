@@ -1,0 +1,26 @@
+{
+    "mensaje": "ok",
+    "response": [
+        {
+            "id": 1,
+            "nombreUsuario": "Alex",
+            "apellidoUsuario": "Palotes",
+            "contrasena": "contraseña1",
+            "correoElectronico": "usuario1@example.com"
+        },
+        {
+            "id": 2,
+            "nombreUsuario": "Brandon",
+            "apellidoUsuario": "Butron",
+            "contrasena": "Lounicomasna",
+            "correoElectronico": "brandon@gmail.com"
+        },
+        {
+            "id": 3,
+            "nombreUsuario": "Matias",
+            "apellidoUsuario": "palotes",
+            "contrasena": "skjfq23423lk",
+            "correoElectronico": "matias@gmail.com"
+        }
+    ]
+}

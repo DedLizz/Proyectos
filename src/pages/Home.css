@@ -1,0 +1,8 @@
+.carruseles {
+    display: flex;
+    justify-content: space-around;
+}
+
+.banner {
+    color: red;
+}

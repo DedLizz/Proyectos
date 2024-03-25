@@ -1,0 +1,31 @@
+/* Navbar2.css */
+
+.navbar-container {
+    padding: 8px;
+    border-radius: 30px;
+    background-color: rgb(79, 255, 4);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Alinea los elementos al centro */
+}
+  
+  .navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-list li {
+    display: inline-block; /* Muestra los elementos en línea */
+    margin: 0 10px; /* Añade margen entre los elementos */
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+  }
+  
+  .navbar-list li a {
+    text-decoration: none; /* Quita la decoración de los enlaces */
+    color: #333; /* Color de texto */
+  }
+  
